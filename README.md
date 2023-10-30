@@ -11,13 +11,13 @@
 
 ## My GitHub Stats
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspiccoli&show_icons=true&theme=radical)
+<div align="center">
+  
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspiccoli&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspiccoli&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspiccoli&layout=compact&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspiccoli&layout=compact&theme=radical)
-
-
+</div>
 
 ## Contact
 

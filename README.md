@@ -1,6 +1,6 @@
 ### Hi there, greetings 👋
 
-![Molecular Dynamics Simulation](path/to/md_simulation.gif)
+![Molecular Dynamics Simulation](md_simulation.gif)
 
 
 ## About Me

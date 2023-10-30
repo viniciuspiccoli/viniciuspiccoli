@@ -1,12 +1,26 @@
-### Hi there 👋
+### Hi there, greetings 👋
 
+## About Me
 
-- 🔭 Greetings; I am Vinicius Piccoli, a PhD candidate in Chemistry at the University of Campinas, Brazil, specializing in computational chemistry. My research primarily involves applying molecular dynamics simulations to study complex solute solutions.
+- 👨‍🎓 PhD Student in Chemistry at the University of Campinas, Brazil
+- 🔬 Working on Computational Chemistry, specifically Molecular Dynamics Simulations
+- 📍 Currently Interning at École Normale Supérieure de Lyon
+- 💼 Researching Solvation of Drugs in Deep Eutectic Solvents using Kirkwood-Buff Theory
+- 📫 How to reach me: [Email](mailto:viniciuspiccoli45@gmail.com)
+- 💬 I welcome discussions, inquiries, and opportunities for collaboration in the fields of computational chemistry and molecular dynamics simulations. Feel free to reach out if my work resonates with your interests or if you wish to discuss potential avenues for cooperation. [Scholar](https://scholar.google.com/citations?user=nkRx62EAAAAJ&hl=pt-BR)
 
-- 🔍 Currently, I am engaged in a one-year internship at École Normale Supérieure de Lyon, where I am investigating the solvation of pharmaceutical compounds in Deep Eutectic Solvents. My work here involves the application of the Kirkwood-Buff theory of solutions, a critical endeavor in understanding the molecular interactions in these unique solvent systems.
+## My GitHub Stats
 
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspiccoli&show_icons=true&theme=radical)
 
-- 💬 I welcome discussions, inquiries, and opportunities for collaboration in the fields of computational chemistry and molecular dynamics simulations. Feel free to reach out if my work resonates with your interests or if you wish to discuss potential avenues for cooperation.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspiccoli&layout=compact&theme=radical)
 
+![Profile views](https://gpvc.arturio.dev/viniciuspiccoli)
 
+## Contact
+
+- 📧 Email1: [v209742@dac.unicamp.br](v209742@dac.unicamp.br)
+- 📧 Email2: [vinicius.piccoli@ens-lyon.fr](vinicius.piccoli@ens-lyon.fr)
+- 🐦 Twitter: [@viniPchem](https://twitter.com/viniPchem)
+- 💼 LinkedIn: [Vinicius Piccoli](https://linkedin.com/in/yourprofile)
 

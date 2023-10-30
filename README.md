@@ -1,7 +1,8 @@
 ### Hi there, greetings 👋
 
+<div align="center">
 ![Molecular Dynamics Simulation](md_simulation.gif)
-
+</div>
 
 ## About Me
 

@@ -1,5 +1,8 @@
 ### Hi there, greetings 👋
 
+![Molecular Dynamics Simulation](path/to/md_simulation.gif)
+
+
 ## About Me
 
 - 👨‍🎓 PhD Student in Chemistry at the University of Campinas, Brazil
